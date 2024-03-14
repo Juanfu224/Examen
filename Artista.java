@@ -17,12 +17,9 @@ public class Artista {
     public String getNombreArtista() {
         return nombreArtista;
 	//Esto es un comentario
+  //COMENTARIO DE LA LINEA 20
     }
-
-    //Juan Felipe Arias Aguirre
-    public void setNombreArtista(String nombreArtista) {
-        this.nombreArtista = nombreArtista;
-    }
+    
 }
 
 
